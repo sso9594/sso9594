@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=SeungYoung&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sso9594&repo=AI-Mail)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sso9594&repo=DaangnMarket_CloneProject)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sso9594&repo=AI-Mail)](https://github.com/sso9594/AI-Mail)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sso9594&repo=DaangnMarket_CloneProject)](https://github.com/sso9594/DaangnMarket_CloneProject)  
  <br/>
  <br/>
   
