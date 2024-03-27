@@ -15,4 +15,4 @@ Computer Science at CBNU [2019.03 ~ 2025.02]
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sso9594)](https://solved.ac/백준아이디/) --> 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sso9594)](https://github.com/anuraghazra/github-readme-stats)
 
-**PORTFOLIO** : https://carnelian-mayflower-590.notion.site/35affc198a9847338d002c50d5eaf9c8?pvs=4
+<!-- **PORTFOLIO** : https://carnelian-mayflower-590.notion.site/35affc198a9847338d002c50d5eaf9c8?pvs=4 -->
