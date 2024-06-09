@@ -5,7 +5,7 @@
 
 Computer Science at CBNU [2019.03 ~ 2025.02]
 
-✉️ : sso9594@naver.com 
+✉️ : sso9594@naver.com
   
 ####  :clipboard: Once I've Used 
     
