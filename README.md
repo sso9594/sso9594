@@ -3,7 +3,7 @@
 
 📘 Education
 
-Computer Science at CBNU [2019.03 ~ 2025.02]
+Computer Science at CBNU [2019.03 ~ 2025.02] 
 
 ✉️ : sso9594@naver.com
   
