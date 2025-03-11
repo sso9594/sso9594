@@ -12,7 +12,7 @@ Computer Science at CBNU [2019.03 ~ 2025.02]
 - 스마일게이트 2022 Winter DevCamp [2022.12~2023.2] [[링크3]]
 
 [링크]: https://github.com/CBNU-Senior-Project/PB-Backend
-[링크2]: https://github.com/sgdevcamp2023/recycle
+[링크2]: https://github.com/sso9594/ZZUAG
 [링크3]: https://github.com/sso9594/DaangnMarket_CloneProject
 
 ✉️ Contacts
