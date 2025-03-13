@@ -8,12 +8,9 @@ Computer Science at CBNU [2019.03 ~ 2025.02]
 📈 Experience
 - 충북대학교 캡스톤 디자인 [2024.03~2024.10] [[링크]]
 - 스마일게이트 2023 DevCamp [2023.12~2024.2] [[링크2]]
-- 충북대학교 SW개발자과정 몰입교육 [2023.07~2023.08]
-- 스마일게이트 2022 Winter DevCamp [2022.12~2023.2] [[링크3]]
 
 [링크]: https://github.com/CBNU-Senior-Project/PB-Backend
 [링크2]: https://github.com/sso9594/ZZUAG
-[링크3]: https://github.com/sso9594/DaangnMarket_CloneProject
 
 ✉️ Contacts
 
