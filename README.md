@@ -15,6 +15,8 @@ Computer Science at CBNU [2019.03 ~ 2025.02]
 ✉️ Contacts
 
 Email: sso9594@naver.com
+
+Blog: https://marstech.tistory.com
   
 ####  :clipboard: Once I've Used 
 
