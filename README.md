@@ -7,11 +7,8 @@ Computer Science at CBNU [2019.03 ~ 2025.02]
 
 📈 Experience
 - 삼성 청년 SW 아카데미 [2025.01~ing]
-- 충북대학교 캡스톤 디자인 [2024.03~2024.10] [[링크]]
-- 스마일게이트 2023 DevCamp [2023.12~2024.2] [[링크2]]
-
-[링크]: https://github.com/CBNU-Senior-Project/PB-Backend
-[링크2]: https://github.com/sso9594/ZZUAG
+- 충북대학교 캡스톤 디자인 [2024.03~2024.10] [[링크](https://github.com/CBNU-Senior-Project/PB-Backend)]
+- 스마일게이트 2023 DevCamp [2023.12~2024.2] [[링크](https://github.com/sso9594/ZZUAG)]
 
 ✉️ Contacts
 
