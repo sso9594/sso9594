@@ -6,7 +6,10 @@
 Computer Science at CBNU [2019.03 ~ 2025.02] 
 
 📈 Experience
-- 삼성 청년 SW 아카데미 [2025.01~ing]
+- 삼성 청년 SW 아카데미 [2025.01~2025.12]
+  - 육아 도움 플랫폼 '아이도아' [[링크](https://github.com/idoaService/IDOA)]
+  - 대학교 대여 사업 연계 플랫폼 '대여해영' [[링크](https://github.com/Shinhan-DaeyeohaeYoung/Backend)]
+  - 데일리 운세 플랫폼 '아그작' [[링크](https://github.com/project-agzak/agzak)]
 - 충북대학교 캡스톤 디자인 [2024.03~2024.10] [[링크](https://github.com/CBNU-Senior-Project/PB-Backend)]
 - 스마일게이트 2023 DevCamp [2023.12~2024.2] [[링크](https://github.com/sso9594/ZZUAG)]
 
